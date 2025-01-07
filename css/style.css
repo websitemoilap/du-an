@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  color: chocolate;
+}
+table {
+  font-size: 20px;
+}
+th {
+  text-align: center;
+}
+tr {
+  text-align: center;
+}
+p {
+  font-size: 20px;
+}
+/* Cấu trúc học nhưng không dùng đến Opacity, Display, Visibility
+Opacity làm mờ nhưng vẫn tương tác được
+Display làm biến mất, không tương tác được, mất khoảng trống
+Visibility làm biến mất, không tương tác, vẫn có khoảng trống */
